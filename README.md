@@ -1,8 +1,8 @@
-![MasterHead](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
+![MasterHead](https://assets-v2.lottiefiles.com/a/8ac3f620-1162-11ee-93ee-5f72c70cdba0/OXQuBR8rhQ.gif)
 <h1 align="center">Hello , I'm Aayush Paudel</h1>
 <h3 align="center">Currently studying CSIT</h3>
 
-<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="right" alt="Coding" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fab58f18-7ecf-4a85-8f94-3ba339c03731/d6kn20d-563db651-0635-4be2-90dd-fb63f884262c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhYjU4ZjE4LTdlY2YtNGE4NS04Zjk0LTNiYTMzOWMwMzczMVwvZDZrbjIwZC01NjNkYjY1MS0wNjM1LTRiZTItOTBkZC1mYjYzZjg4NDI2MmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-FmqdNWtgF5T6IkJZ0zfsiRPlvwnY5QJ8sU-OdEnly4">
 
 - 🔭 I’m currently working on **Time Series Analysis Using SARIMA**
 
