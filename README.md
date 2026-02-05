@@ -3,9 +3,7 @@
 <h3 align="center">Currently studying CSIT</h3>
 
 
-- 🔭 I’m currently working on **Time Series Analysis Using SARIMA**
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Sentiment Analysis**
 
 - 📫 How to reach me **aayushpaudel09@gmail.com**
 
