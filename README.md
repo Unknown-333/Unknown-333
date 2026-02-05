@@ -1,6 +1,7 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fab58f18-7ecf-4a85-8f94-3ba339c03731/d6kn20d-563db651-0635-4be2-90dd-fb63f884262c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhYjU4ZjE4LTdlY2YtNGE4NS04Zjk0LTNiYTMzOWMwMzczMVwvZDZrbjIwZC01NjNkYjY1MS0wNjM1LTRiZTItOTBkZC1mYjYzZjg4NDI2MmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-FmqdNWtgF5T6IkJZ0zfsiRPlvwnY5QJ8sU-OdEnly4)
 <h1 align="center">Hi 👋, I'm Aayush Paudel</h1>
-<h3 align="center">A strudent studying Bsc.CSIT</h3>
+<h3 align="center">A st
+  udent studying Bsc.CSIT</h3>
 
 - 🌱 I’m currently learning **Sentiment Analysis**
 
